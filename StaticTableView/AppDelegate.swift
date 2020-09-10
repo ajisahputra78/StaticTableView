@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  MySimpleHeroApp
+//  StaticTableView
 //
 //  Created by Aji Sahputra78 on 11/09/20.
 //
